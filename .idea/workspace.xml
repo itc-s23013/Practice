@@ -4,25 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="188272cc-f680-4e27-bb85-fea216c3bf8d" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/User3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/User4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/main7.kt" afterDir="false" />
+    <list default="true" id="188272cc-f680-4e27-bb85-fea216c3bf8d" name="変更" comment="farst commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/AddCalculationExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/AddCalculationExecutorDelegate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/CalculationExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/CommonCalculationExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/DelegatePerson.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/DelegeteWithMessage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/Main10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/Main8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/Main9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/Num.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/User12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/User2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/User4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/User4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/main7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23013/practice/chap2/Main7.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +38,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Data Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "itc-s23013"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:itc-s23013/Practice.git",
+    "accountId": "09b5be0e-7f02-4d3e-bd53-8b9637fcf9c1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2h5FvAJFh6S0UYA5pMe7FD5mdRR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,7 +72,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Practice のビルド.executor": "Run",
+    "Kotlin.Main10Kt.executor": "Run",
     "Kotlin.Main7Kt.executor": "Run",
+    "Kotlin.Main8Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -77,9 +94,23 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Main7Kt">
+  <component name="RunManager" selected="Kotlin.Main10Kt">
+    <configuration name="Main10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college_std.s23013.jp.ac.it_college.std.s23013.practice.chap2.Main10Kt" />
+      <module name="Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jp.ac.it_college_std.s23013.jp.ac.it_college.std.s23013.practice.chap2.Main7Kt" />
+      <module name="Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college_std.s23013.jp.ac.it_college.std.s23013.practice.chap2.Main8Kt" />
       <module name="Practice.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,6 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main10Kt" />
+        <item itemvalue="Kotlin.Main8Kt" />
         <item itemvalue="Kotlin.Main7Kt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -115,12 +148,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716876259756</updated>
-      <workItem from="1716876261193" duration="5593000" />
+      <workItem from="1716876261193" duration="6964000" />
+      <workItem from="1716942982206" duration="11435000" />
     </task>
+    <task id="LOCAL-00001" summary="farst commit">
+      <option name="closed" value="true" />
+      <created>1716883326780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716883326780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="farst commit">
+      <option name="closed" value="true" />
+      <created>1716959370636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716959370636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="farst commit">
+      <option name="closed" value="true" />
+      <created>1716959467301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716959467301</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="farst commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="farst commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

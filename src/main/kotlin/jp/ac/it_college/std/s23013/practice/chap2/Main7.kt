@@ -49,8 +49,36 @@ fun main() {
     randomGenerateNumber()?.run {
         println("4回目: ${this}が生成されました")
     }
+    println("----2.7.6----")
+    val oddNumbers4 = mutableListOf<Int>().let { list ->
+        for (i in 1..10) {
+            if (i % 2 == 1 ) {
+                list.add(i)
+            }
+        }
+        list.joinToString(separator = " ")
+    }
+    println(oddNumbers4)
+
+    println("----2.7.7--2.7.8----")
+    println(createUser("takehata"))
+    println(createUser(null))
+
+    println("----2.7.11----")
+    val oddNumbers11 = mutableListOf<Int>().apply {
+        for (i in 1..10) {
+            if (i % 2 == 1) {
+                add(i)
+            }
+        }
+        joinToString(" ")
+    }
+    println(oddNumbers11)
+
+    println("----2.7.12--2.7.13----")
+    updateUser(100,"kotoln","nagoya")
 }
+
     fun randomGenerateNumber (): Int? {
         return if (Random.nextBoolean()) Random.nextInt(1..10) else null
     }
-
